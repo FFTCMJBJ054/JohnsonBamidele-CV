@@ -163,6 +163,10 @@ ul {
     margin-top: 4%;
 }
 
+.contact-img > img {
+  width: 70%;
+}
+
 .contact-logo {
     display: inline-block;
     width: 0.8%;
