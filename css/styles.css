@@ -204,17 +204,11 @@ ul {
 
 }
 
-input[placeholder] {
+input[placeholder], textarea[placeholder] {
     font-family: 'Century Gothic', sans-serif;
-    font-size: 18px;
+    font-size: 1.15em;
 }
 
-textarea[placeholder] {
-    font-family: 'Century Gothic',
-        sans-serif;
-    font-size: 18px;
-
-}
 
 .contact-btn {
     text-transform: uppercase;
