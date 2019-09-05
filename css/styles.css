@@ -53,7 +53,7 @@ ul {
 }
 
 .my-title {
-    font-size: 19px;
+    font-size: 1.19em;
     font-weight: bold;
 }
 
@@ -95,7 +95,7 @@ ul {
 .personal-title {
     color: rgba(70, 70, 70);
     font-weight: bold;
-    font-size: 18px;
+    font-size: 1.125em;
 }
 
 /*education*/
@@ -169,8 +169,8 @@ ul {
 
 .contact-logo {
     display: inline-block;
-    width: 0.8%;
-    height: 0.8%;
+    width: 0.9%;
+    height: 0.9%;
 }
 
 .msg-head {
